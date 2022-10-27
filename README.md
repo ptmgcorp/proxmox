@@ -2,7 +2,7 @@
 
 <p align="center"><sub> Always remember to use due diligence when sourcing scripts and automation tasks from third-party sites. </sub></p>
 
-<a href="https://github.com/tteck/Proxmox/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" ></a> <a href="https://github.com/tteck/Proxmox/discussions"><img src="https://img.shields.io/badge/%F0%9F%92%AC-Discussions-orange" /></a> <a href="https://github.com/tteck/Proxmox/blob/main/CHANGELOG.MD"><img src="https://img.shields.io/badge/🔶-Changelog-blue" /></a>
+<a href="https://github.com/tteck/Proxmox/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" ></a> <a href="https://github.com/tteck/Proxmox/discussions"><img src="https://img.shields.io/badge/%F0%9F%92%AC-Discussions-orange" /></a>
 <details>
 <summary markdown="span"> Proxmox Tools </summary>
 ⬇__________________________________________________________________________________________
